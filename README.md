@@ -76,7 +76,7 @@ This project demonstrates proficiency in **Power BI**, encompassing data acquisi
 ---
 
 ### 🖼️ **Dashboard Screenshot**  
-![Power BI Dashboard Screenshot]([Assets/Screenshot 2024-11-16 190549.png](https://github.com/ehap23/Adventure-Works-Sales-Report/blob/1e07453bf357f9a430f649620e54421c32f80814/Assets/Screenshot%202024-11-16%20190549.png))
+![Power BI Dashboard Screenshot](https://github.com/ehap23/Adventure-Works-Sales-Report/blob/1e07453bf357f9a430f649620e54421c32f80814/Assets/Screenshot%202024-11-16%20190549.png)
 
 > **🔗 [View the live Report on Power BI Server]([https://your-powerbi-server-link/dashboard](https://app.powerbi.com/reportEmbed?reportId=35607cbc-bd56-47a2-9161-7ae0b32d0955&autoAuth=true&ctid=681e3d57-b8ae-4fbd-a826-02bf07599ccb))**
 
